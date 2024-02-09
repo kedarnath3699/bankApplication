@@ -1,2 +1,2 @@
 # bankApplication
-this is my git practice Project
+this is the basic commands of the git 
